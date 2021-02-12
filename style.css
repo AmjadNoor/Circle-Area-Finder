@@ -1,23 +1,23 @@
-*{
+* {
   margin: 0;
   padding: 0;
   background-color: darkcyan;
 }
 
-#num1{
+#num1 {
   padding-left: 5px;
   color: black;
   background-color: white;
 }
 
-#btn1{
+#btn1 {
   color: black;
   background-color: white;
   padding-left: 5px;
   padding-right: 5px;
 }
 
-#para1{
+#para1 {
   color: ghostwhite;
   padding: 2px 5px;
   font-family: 'Lora', serif;
@@ -28,7 +28,7 @@
   text-shadow: 3px 2px 4px black;
 }
 
-.content{
+.content {
   position: absolute;
   left: 25%;
   top: 50%;
