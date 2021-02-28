@@ -1,6 +1,6 @@
 function fn1() {
   const fig = 'Circle';
-  const pi = 3.14159265359;
+  const pi = Math.PI;
   let r = document.getElementById('num1').value;
   const circleArea = pi * r ** 2;
 
